@@ -59,5 +59,10 @@ public class TestArrowNotationExercise {
                         new Person("aa", "b", 1)));
     }
 
+    @Test
+    public void alwaysPasses(){
+        assertEquals(2 * 2, 4);
+    }
+
 
 }
