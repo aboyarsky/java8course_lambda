@@ -66,7 +66,7 @@ public class TestArrowNotationExercise {
 
     @Test
     public void NotFailsAnymore(){
-        assertEquals(2 * 2, 5);
+        assertEquals(2 * 2, 4);
     }
 
 }
